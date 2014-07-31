@@ -2,7 +2,7 @@
 
 export prefix=/usr
 
-ifneq (,$(findstring $(DEB_BUILD_ARCH), amd64 i386 ia64 mips mipsel powerpc))
+ifneq (,$(findstring $(DEB_BUILD_ARCH), amd64 i386 ia64 mips mipsel mipsn32 mipsn32el mips64 mips64el powerpc))
 export NUMA=1
 endif
 

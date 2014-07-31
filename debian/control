@@ -3,7 +3,7 @@ Section: misc
 Priority: extra
 Maintainer: Uwe Kleine-König <uwe@kleine-koenig.org>
 Standards-Version: 3.9.5
-Build-Depends: debhelper (>= 9), libnuma-dev (>= 2.0.3) [amd64 i386 ia64 mips mipsel powerpc powerpcspe ppc64 x32], dkms (>= 2.1.0.0)
+Build-Depends: debhelper (>= 9), libnuma-dev (>= 2.0.3) [amd64 i386 ia64 mips mipsel mipsn32 mipsn32el mips64 mips64el powerpc powerpcspe ppc64 x32], dkms (>= 2.1.0.0)
 Vcs-Browser: http://git.pengutronix.de/?p=ukl/rt-tests.git;
 Vcs-Git: git://git.pengutronix.de/git/ukl/rt-tests.git
 
