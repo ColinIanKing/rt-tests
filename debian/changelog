@@ -1,3 +1,9 @@
+rt-tests (0.89-1) UNRELEASED; urgency=medium
+
+  * new upstream release
+
+ -- Uwe Kleine-König <uwe@kleine-koenig.org>  Thu, 31 Jul 2014 22:51:43 +0200
+
 rt-tests (0.88-1) unstable; urgency=low
 
   * new upstream release
