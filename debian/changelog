@@ -1,9 +1,9 @@
-rt-tests (0.89-1) UNRELEASED; urgency=medium
+rt-tests (0.89-1) unstable; urgency=medium
 
   * new upstream release
   * enable numa for mips{64,n32}{,el} (Closes: #756597)
 
- -- Uwe Kleine-König <uwe@kleine-koenig.org>  Thu, 31 Jul 2014 22:51:43 +0200
+ -- Uwe Kleine-König <uwe@kleine-koenig.org>  Thu, 31 Jul 2014 23:31:39 +0200
 
 rt-tests (0.88-1) unstable; urgency=low
 
